@@ -1,2 +1,0 @@
-# jottings
-study notes
